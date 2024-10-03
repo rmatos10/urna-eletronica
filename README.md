@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/src/app/favicon.ico" width="18" height="18" alt="Urna eletrônica"> Urna Eletrônica edição 2024 candidatos de Lages/SC
+# <img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/src/app/favicon.ico" width="18" height="18" alt="Urna eletrônica"> Urna eletrônica edição 2024 candidatos de Lages/SC
 Projeto de aplicação web desenvolvido para treinamento de React + Next.js e Styled Components
 
 ## Conteúdo
