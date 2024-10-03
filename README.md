@@ -15,7 +15,7 @@ focado no treinamento de __React__, __Next.js__ e __Styled Components__ com __Th
 com dígitos para vereador e prefeito, a exibição de candidatos em etapas, fotos e informações detalhadas com legenda, além da possibilidade <br />
 de votar nulo ou em branco. No sistema, também foi adicionado recursos de som ao pressionar uma opção além da confirmação na etapa final.
 Existem componentes criados para reutilização, como o caso do botão, visando uma melhor manutenção no futuro e estilização do mesmo.
-O projeto está com a lógica alocada , além de estruturado e organizado por models, pages, styles e assets, para melhor compreensão. 
+O projeto está com a lógica organizada, além de estruturado por models, pages, styles e assets, para melhor compreensão. 
 A base de dados local inclui alguns candidatos da edição 2024 da cidade de Lages/SC, 
 com intuito apenas de demonstrar aprendizado e recursos que essas ferramentas de programação permitem elaborar.<br />
 
