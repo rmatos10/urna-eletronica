@@ -41,11 +41,11 @@ $ npm run dev
 
 ## :camera_flash: Pré-visualização
 
-<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-vereador.png" width="740" height="640" alt="Urna eletrônica">
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-vereador.png?1" width="740" height="640" alt="Urna eletrônica">
 <img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-vereador-preenchido.png" width="740" height="640" alt="Urna eletrônica">
 <img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-vereador-preenchido2.png" width="740" height="640" alt="Urna eletrônica">
 <img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-voto-em-branco.png" width="740" height="640" alt="Urna eletrônica">
-<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-voto-nulo.png" width="740" height="640" alt="Urna eletrônica">
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-voto-nulo.png?1" width="740" height="640" alt="Urna eletrônica">
 <img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-prefeito.png" width="740" height="640" alt="Urna eletrônica">
 <img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-prefeito-preenchido.png" width="740" height="640" alt="Urna eletrônica">
 <img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-prefeito-preenchido2.png" width="740" height="640" alt="Urna eletrônica">
