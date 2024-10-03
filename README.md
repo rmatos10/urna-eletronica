@@ -1,34 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# <img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/src/app/favicon.ico" width="18" height="18" alt="Urna eletrônica"> Urna Eletrônica edição 2024 candidatos de Lages/SC
+Projeto de aplicação web desenvolvido para treinamento de React + Next.js e Styled Components
 
-## Getting Started
+## Conteúdo
+* [Sobre a aplicação](#sobre-a-aplicação)
+* [Tecnologias](#hammer_and_wrench-tecnologias)
+* [Iniciando a Aplicação](#car-iniciando-a-aplicação)
+* [Pré-visualização](#camera_flash-pré-visualização)
+* [Licença](#balance_scale-licença)
+* [Contato](#email-contato)
 
-First, run the development server:
+## Sobre a aplicação
 
+A Urna Eletrônica 2024 é um projeto de aplicação web desenvolvido para simular um sistema de votação dos candidatos de Lages/SC,<br />
+focado no treinamento de __React__, __Next.js__ e __Styled Components__ com __ThemeProvider__. O sistema permite iniciar a votação simulando uma urna,<br />
+com dígitos para vereador e prefeito, a exibição de candidatos em etapas, fotos e informações detalhadas com legenda, além da possibilidade <br />
+de votar nulo ou em branco. No sistema, também foi adicionado recursos de som ao pressionar uma opção além da confirmação na etapa final. <br />
+Existem componentes criados para reutilização, como o caso do botão, visando uma melhor manutenção no futuro e estilização do mesmo. <br />
+O projeto está com a lógica alocada , além de estruturado e organizado por models, pages, styles e assets, para melhor compreensão. <br />
+A base de dados local inclui alguns candidatos da edição 2024 da cidade de Lages/SC, <br />
+com intuito apenas de demonstrar aprendizado e recursos que essas ferramentas de programação permitem elaborar.<br />
+
+## :hammer_and_wrench: Tecnologias
+* Front-end
+  * __React + Next.js__
+  * __Styled Components__ para estilização.
+  * __File loader__ para adicionar áudio de .mp3
+<br />
+
+## :car: Iniciando a aplicação
+Baixe o repositório com git clone e entre na pasta do projeto.<br/>
+Renomeie os arquivos _.env.example_ para _.env_ e informe as URLs e o JWT secret. É necessário ter um login no __PlanetScale__ para configurar as credenciais no arquivo _.env_ do código.<br/>
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+$ git clone https://github.com/rmatos10/urna-eletronica
+```
+* Front-end
+```bash
+$ npm install
+$ npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## :camera_flash: Pré-visualização
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-vereador.png" width="740" height="640" alt="Urna eletrônica">
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-vereador-preenchido.png" width="740" height="640" alt="Urna eletrônica">
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-vereador-preenchido2.png" width="740" height="640" alt="Urna eletrônica">
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-voto-em-branco.png" width="740" height="640" alt="Urna eletrônica">
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-voto-nulo.png" width="740" height="640" alt="Urna eletrônica">
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-prefeito.png" width="740" height="640" alt="Urna eletrônica">
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-prefeito-preenchido.png" width="740" height="640" alt="Urna eletrônica">
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-prefeito-preenchido2.png" width="740" height="640" alt="Urna eletrônica">
+<img src="https://raw.githubusercontent.com/rmatos10/urna-eletronica/refs/heads/main/public/pre-visualizacao/tela-fim.png" width="740" height="640" alt="Urna eletrônica">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## :balance_scale: Licença
+Este projeto está licenciado sob a [licença MIT](LICENSE).
 
-To learn more about Next.js, take a look at the following resources:
+## :email: Contato
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+E-mail: [**rafael.matosr@gmail.com**](mailto:rafael.matosr@gmail.com)
